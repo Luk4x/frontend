@@ -1,1 +1,1 @@
-# layout estático estruturado em componentes react. (HTML5, CSS3, ReactJs)
+# layout estático estruturado em componentes react. (HTML5, CSS3, ReactJS)
