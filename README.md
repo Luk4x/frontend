@@ -1,2 +1,1 @@
-# Frond-end do evento Semana Spring React
-layout estático estruturado em componentes react.
+# layout estático estruturado em componentes react. (HTML5, CSS3, ReactJs)
